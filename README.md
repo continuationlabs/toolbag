@@ -2,7 +2,7 @@
 
 [![Current Version](https://img.shields.io/npm/v/toolbag.svg)](https://www.npmjs.org/package/toolbag)
 [![Build Status via Travis CI](https://travis-ci.org/continuationlabs/toolbag.svg?branch=master)](https://travis-ci.org/continuationlabs/toolbag)
-![Dependencies](http://img.shields.io/david/continuationlabs/toolbag.svg)
+[![Dependencies](http://img.shields.io/david/continuationlabs/toolbag.svg)](https://david-dm.org/continuationlabs/toolbag#info=devDependencies)
 
 [![belly-button-style](https://cdn.rawgit.com/continuationlabs/belly-button/master/badge.svg)](https://github.com/continuationlabs/belly-button)
 
